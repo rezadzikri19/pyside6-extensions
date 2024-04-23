@@ -12,7 +12,7 @@ To use pyside6_extensions with Magic Shortcut, follow these steps:
    ```bash
    pip install .
    ```
-4. Compile the project using Nuitka by running the provided `compile.sh` script:
+4. Compile the project by running the provided `compile.sh` script:
    ```bash
    ./compile.sh
    ```
