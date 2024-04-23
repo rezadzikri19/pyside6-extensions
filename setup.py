@@ -20,7 +20,7 @@ setup(
     ],
     python_requires=">=3.11",
     install_requires=[
-        "PySide6==6.7.0",
+        "PySide6==6.6.2",
         "nuitka==2.1.6",
     ],
 )
