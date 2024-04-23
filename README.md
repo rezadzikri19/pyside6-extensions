@@ -16,7 +16,7 @@ To use pyside6_extensions with Magic Shortcut, follow these steps:
    ```bash
    ./compile.sh
    ```
-5. After compilation, copy all content from the `build/pyside6_extensions.dist` directory to the Magic Shortcut program directory.
+5. After compilation, copy all content from the `build/pyside6_extensions.dist` directory to the Magic Shortcut program directory (Installed).
 
 ## Changing PySide6 in Magic Shortcut
 
